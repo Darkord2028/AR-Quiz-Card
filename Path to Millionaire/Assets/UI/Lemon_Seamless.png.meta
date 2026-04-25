@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: d9b5ba846459c534fa7db0c4c9c5706c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 93178191740947312
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_0
+  - first:
+      213: -6732375792073562964
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_1
+  - first:
+      213: 2293915448407539066
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_2
+  - first:
+      213: 4592091460789853867
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_3
+  - first:
+      213: -185955148932896127
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_4
+  - first:
+      213: -6362067713361704901
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_5
+  - first:
+      213: -6418906601484136208
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_6
+  - first:
+      213: -1220959437611692449
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_7
+  - first:
+      213: 3217634275799273444
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_8
+  - first:
+      213: 8017246657825254543
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_9
+  - first:
+      213: -4818000483182600104
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_10
+  - first:
+      213: 8114167105157335288
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_11
+  - first:
+      213: -7157196943675992617
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_12
+  - first:
+      213: -2638844359771466074
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_13
+  - first:
+      213: 4652846409069267613
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_14
+  - first:
+      213: 3026112201446545762
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_15
+  - first:
+      213: 5542390822176004427
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_16
+  - first:
+      213: 2727210706739970220
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_17
+  - first:
+      213: 6112204492352805232
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_18
+  - first:
+      213: -2634636659721007617
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_19
+  - first:
+      213: 5314885922585809609
+    second: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 713
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b488b52190b4100800000000000000
+      internalID: 93178191740947312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4260
+        width: 522
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4240303ebc192a0800000000000000
+      internalID: -6732375792073562964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4258
+        width: 1422
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dbc1752ff95df10800000000000000
+      internalID: 2293915448407539066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_3
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3725
+        width: 682
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baedb788ad26abf30800000000000000
+      internalID: 4592091460789853867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_4
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 4258
+        width: 1422
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a23bbf6ca5b6df0800000000000000
+      internalID: -185955148932896127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_5
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 3918
+        width: 746
+        height: 1053
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3808145f1565b7a0800000000000000
+      internalID: -6362067713361704901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_6
+      rect:
+        serializedVersion: 2
+        x: 4287
+        y: 3040
+        width: 713
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0d02c64767be6a0800000000000000
+      internalID: -6418906601484136208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1963
+        width: 557
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e8ef34cd74e0fe0800000000000000
+      internalID: -1220959437611692449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_8
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2676
+        width: 992
+        height: 1048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef032a735557ac20800000000000000
+      internalID: 3217634275799273444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_9
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2238
+        width: 805
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cac5cab5bf24f60800000000000000
+      internalID: 8017246657825254543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_10
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2916
+        width: 1170
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850ad306616032db0800000000000000
+      internalID: -4818000483182600104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_11
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 2324
+        width: 1088
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8001fcdff4b9070800000000000000
+      internalID: 8114167105157335288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 713
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d55ea8dc478cac90800000000000000
+      internalID: -7157196943675992617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_13
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1014
+        width: 1109
+        height: 1161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a657463901f06bd0800000000000000
+      internalID: -2638844359771466074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_14
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 400
+        width: 420
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a860f382b329040800000000000000
+      internalID: 4652846409069267613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_15
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 1014
+        width: 1420
+        height: 1488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26952b1a309eef920800000000000000
+      internalID: 3026112201446545762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_16
+      rect:
+        serializedVersion: 2
+        x: 4287
+        y: 540
+        width: 713
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b499f2286178aec40800000000000000
+      internalID: 5542390822176004427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 85
+        width: 696
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0c0ea30bff8d520800000000000000
+      internalID: 2727210706739970220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_18
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 1426
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0795c391a99e2d450800000000000000
+      internalID: 6112204492352805232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_19
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0
+        width: 1425
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd8b19bae3ef6bd0800000000000000
+      internalID: -2634636659721007617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_20
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 328
+        width: 794
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2937d469442c940800000000000000
+      internalID: 5314885922585809609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_0: 93178191740947312
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_1: -6732375792073562964
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_10: -4818000483182600104
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_11: 8114167105157335288
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_12: -7157196943675992617
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_13: -2638844359771466074
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_14: 4652846409069267613
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_15: 3026112201446545762
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_16: 5542390822176004427
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_17: 2727210706739970220
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_18: 6112204492352805232
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_19: -2634636659721007617
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_2: 2293915448407539066
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_20: 5314885922585809609
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_3: 4592091460789853867
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_4: -185955148932896127
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_5: -6362067713361704901
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_6: -6418906601484136208
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_7: -1220959437611692449
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_8: 3217634275799273444
+      vecteezy_vintage-half-drop-seamless-lemon-and-leaves-pattern_22945106_9: 8017246657825254543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

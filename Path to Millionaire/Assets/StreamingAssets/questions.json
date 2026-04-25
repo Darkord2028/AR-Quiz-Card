@@ -1,0 +1,102 @@
+[
+    {
+        "questionText": "Which language is primarily used for developing iOS apps?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "Swift", "isCorrect": true },
+            { "text": "Kotlin", "isCorrect": false },
+            { "text": "JavaScript", "isCorrect": false },
+            { "text": "C#", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "What does HTML stand for?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "HyperText Markup Language", "isCorrect": true },
+            { "text": "Hyperlink Transfer Markup Language", "isCorrect": false },
+            { "text": "HighText Markdown Language", "isCorrect": false },
+            { "text": "Hyper Transfer Mode Language", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Which data structure uses FIFO (First In, First Out)?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "Queue", "isCorrect": true },
+            { "text": "Stack", "isCorrect": false },
+            { "text": "Tree", "isCorrect": false },
+            { "text": "Graph", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Which keyword is used to define a function in Python?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "func", "isCorrect": false },
+            { "text": "define", "isCorrect": false },
+            { "text": "def", "isCorrect": true },
+            { "text": "function", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "In C++, which symbol is used to access members of a class through a pointer?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": ".", "isCorrect": false },
+            { "text": "->", "isCorrect": true },
+            { "text": "::", "isCorrect": false },
+            { "text": "#", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "What does CSS stand for?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "Cascading Style Sheets", "isCorrect": true },
+            { "text": "Computer Style System", "isCorrect": false },
+            { "text": "Creative Style Syntax", "isCorrect": false },
+            { "text": "Code Styling Sheet", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Which of the following is NOT a programming paradigm?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "Object-Oriented", "isCorrect": false },
+            { "text": "Functional", "isCorrect": false },
+            { "text": "Procedural", "isCorrect": false },
+            { "text": "Hypothetical", "isCorrect": true }
+        ]
+    },
+    {
+        "questionText": "Which of these is a strongly typed language?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "Java", "isCorrect": true },
+            { "text": "JavaScript", "isCorrect": false },
+            { "text": "Python", "isCorrect": false },
+            { "text": "PHP", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Which SQL command is used to remove a record from a table?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "DELETE", "isCorrect": true },
+            { "text": "REMOVE", "isCorrect": false },
+            { "text": "DROP", "isCorrect": false },
+            { "text": "CLEAR", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "What is the output type of the expression 5 / 2 in Python 3?",
+        "questionType": "MCQ",
+        "options": [
+            { "text": "int", "isCorrect": false },
+            { "text": "float", "isCorrect": true },
+            { "text": "string", "isCorrect": false },
+            { "text": "boolean", "isCorrect": false }
+        ]
+    }
+]
